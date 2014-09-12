@@ -1,6 +1,8 @@
 /*
  * Sample demonstration of how a class implements an Interface.
  * 
+ * Requires implementation of two methods
+ * 
  * @author Kent Collins
  * @version 14 September, 2014
  */
