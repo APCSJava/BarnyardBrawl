@@ -1,4 +1,4 @@
 BarnyardBrawl
 =============
 
-Illustrates how an interface can provide polymorphism.
+Illustrates how interfaces can support polymorphism.
