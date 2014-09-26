@@ -9,7 +9,7 @@
 public class Horse implements BarnyardAnimal {
 
 	@Override
-	public void soundOff() {
+	public void greetFarmer() {
 		System.out.println("Neeiiiighh!");
 	}
 	
