@@ -1,6 +1,5 @@
 /*
- * A class that implements the BarnyardAnimal interface by implementing its two methods in a manner
- * befitting a horse.
+ * Implements the BarnyardAnimal interface in a manner befitting a horse.
  * 
  * @author Kent Collins
  * @version 14 September, 2014
