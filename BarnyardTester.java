@@ -8,16 +8,13 @@
 
 public class BarnyardTester {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		BarnyardAnimal[] animals = new BarnyardAnimal[10];
 		animals[0] = new Horse();
 		for (BarnyardAnimal animal : animals) {
 			if (animal != null) {
 				System.out.println(animal.toString());
-				animal.soundOff();
+				animal.greetFarmer();
 			}
 		}
 
