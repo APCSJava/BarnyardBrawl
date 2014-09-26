@@ -1,11 +1,11 @@
 /*
- * Sample demonstration of how a class implements an Interface.
- * 
- * Requires implementation of two methods
+ * A class that implements the BarnyardAnimal interface by implementing its two methods in a manner
+ * befitting a horse.
  * 
  * @author Kent Collins
  * @version 14 September, 2014
  */
+ 
 public class Horse implements BarnyardAnimal {
 
 	@Override
