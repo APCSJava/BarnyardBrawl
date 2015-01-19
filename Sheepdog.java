@@ -1,5 +1,5 @@
 
-public class Sheepdog {
+public class Sheepdog implements BarnyardAnimal {
 	@Override
 	public void greetFarmer() {
 		System.out.println("Woof! Woof");
