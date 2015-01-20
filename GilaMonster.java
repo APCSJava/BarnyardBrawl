@@ -1,5 +1,5 @@
 /*
- * Implements the BarnyardAnimal interface in a manner befitting a horse.
+ * Implements the BarnyardAnimal interface in a manner befitting a Gila Monster.
  * 
  * @author Doug Heynderickx
  * @version 20 January, 2015
