@@ -1,3 +1,10 @@
+/*
+ * Implements the BarnyardAnimal interface in a manner befitting a horse.
+ * 
+ * @author Doug Heynderickx
+ * @version 20 January, 2015
+ */
+ 
 public class GilaMonster implements BarnyardAnimal {
   @Override
 	public void greetFarmer() {
