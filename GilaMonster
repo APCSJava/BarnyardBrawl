@@ -1,0 +1,12 @@
+public class GilaMonster implements BarnyardAnimal {
+  @Override
+	public void greetFarmer() {
+		System.out.println("SSSSSSsssSSSSSSSsssssSSSSSSS");
+	}
+	
+	@Override
+	public String toString() {
+		return "The Gila Monster is a small little fellow. He eats bugs.";
+	}
+
+}
