@@ -1,5 +1,5 @@
 /*
- * Implements the BarnyardAnimal interface in a manner befitting a horse.
+ * Implements the BarnyardAnimal interface in a manner befitting a falcon.
  * 
  * @author Christopher Vann
  * @version 20 January, 2015
