@@ -5,7 +5,7 @@
  * @version 20 January, 2015
  */
  
-public class Horse implements BarnyardAnimal {
+public class Goldfish implements BarnyardAnimal {
 
 	@Override
 	public void greetFarmer() {
