@@ -1,8 +1,8 @@
 /*
  * Implements the BarnyardAnimal interface in a manner befitting a horse.
  * 
- * @author Kent Collins
- * @version 14 September, 2014
+ * @author Christopher Vann
+ * @version 20 January, 2015
  */
  
 public class Falcon implements BarnyardAnimal {
