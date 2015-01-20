@@ -5,7 +5,7 @@
  * @version 20 January, 2015
  */
  
-public class Sheep implements BarnyardAnimal {
+public class BaaBaa implements BarnyardAnimal {
 
 	@Override
 	public void greetFarmer() {
