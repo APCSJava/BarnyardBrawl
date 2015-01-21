@@ -23,7 +23,6 @@ public class Chorse implements BarnyardAnimal, Comparable {
 		return "The horse is sturdy and powerful, capable of much work.";
 	}
 
-	@Override
 	public int compareTo(Object o) {
 		  Chorse other = (Chorse) o;
 		  if (this.height == other.height) return 0;
