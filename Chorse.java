@@ -28,12 +28,22 @@ public class Chorse implements BarnyardAnimal, Comparable {
 	/**
 	 * @param o An object to be compared to this horse
 	 * 
-	 * @return -1 if this horse is shorter, 0 if same, +1 if this horse taller
+	 * @return -1 if this horse is shorter, 0 if same, 
+	 * +1 if this horse taller
+	 * 
+	 * Compatible with Java 1.6 and earlier
 	 */
 	public int compareTo(Object o) {
 		  Chorse other = (Chorse) o;
 		  if (this.height == other.height) return 0;
 		  if (this.height < other.height) return -1;
+		  return 1;
+	}
+	
+	// Java 1.7 and beyond
+	public int compareTo(Chorse c) {
+		  if (this.height == c.height) return 0;
+		  if (this.height < c.height) return -1;
 		  return 1;
 	}
 }
