@@ -17,12 +17,12 @@ public class Cgriffin implements BarnyardAnimal, Comparable {
 
 	@Override
 	public void greetFarmer() {
-		System.out.println("Neeiiiighh!");
+		System.out.println("Raeeeeewwww");
 	}
 	
 	@Override
 	public String toString() {
-		return "The horse is sturdy and powerful, capable of much work.";
+		return "grf ns r so kewl";
 	}
 
 	/**
@@ -34,9 +34,9 @@ public class Cgriffin implements BarnyardAnimal, Comparable {
 	 * Compatible with Java 1.6 and earlier
 	 */
 	public int compareTo(Object o) {
-		  Chorse other = (Chorse) o;
-		  if (this.ferocity == other.height) return 0;
-		  if (this.ferocity < other.height) return -1;
+		  Chorse other = (Cgriffin) o;
+		  if (this.ferocity == other.ferocity) return 0;
+		  if (this.ferocity < other.ferocity) return -1;
 		  return 1;
 	}
 	
