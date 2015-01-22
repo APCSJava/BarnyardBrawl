@@ -10,7 +10,7 @@ public class DuckTester {
      System.out.println("duck fast is faster than duck slow");
    }
    if (fast2.compareTo(fast)==0){
-     System.out.println("duck fast and snail are the same speed");
+     System.out.println("duck fast and fast2 are the same speed");
    }
 
 }
