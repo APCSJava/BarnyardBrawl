@@ -1,0 +1,15 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class FalconTester {
+  
+  
+  public static void main(String[] args) { 
+    Falcon peregrin = new Falcon(220);
+    Falcon black = new Falcon(100);
+    System.out.println(peregrin.compareTo(black));
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}
