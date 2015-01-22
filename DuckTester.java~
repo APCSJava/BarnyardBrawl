@@ -1,0 +1,11 @@
+public class DuckTester {
+
+ public static void main(String[] args) {
+  
+   Duck fast = new Duck(5);
+   Duck slower = new Duck(2);
+   
+   System.out.println(fast.compareTo(slower));
+
+}
+}
