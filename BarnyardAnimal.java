@@ -1,8 +1,8 @@
 /*
- * A common set of methods that establish what a BarnyardAnimal must do.
+ * A contract specifying two behaviors that a BarnyardAnimal must be able to do.
  *
  * Classes that implement this interface must provide an implementation for
- * each method specified.
+ * each of the two methods specified.
  * 
  * @author Kent Collins
  * @version 12 September, 2014
