@@ -1,4 +1,4 @@
-/*
+te/*
  * A contract specifying two behaviors that a BarnyardAnimal must be able to do.
  *
  * Classes that implement this interface must provide an implementation for
