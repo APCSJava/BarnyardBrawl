@@ -12,6 +12,6 @@ public interface BarnyardAnimal {
 
 	public void greetFarmer();  // what does your animal say to the farmer? print that to the console.
 	
-	public String toString();  // return a String description of yourself
+	public String toString();  // return a String description of this animal
 
 }
