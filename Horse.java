@@ -16,5 +16,9 @@ public class Horse implements BarnyardAnimal {
 	public String toString() {
 		return "The horse is sturdy and powerful, capable of much work.";
 	}
+	
+	public void poop(){
+		
+	}
 
 }
