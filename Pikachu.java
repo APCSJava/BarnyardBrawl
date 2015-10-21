@@ -1,4 +1,3 @@
-
 public class Pikachu implements BarnyardAnimal{
 	
 	public void greetFarmer() {
