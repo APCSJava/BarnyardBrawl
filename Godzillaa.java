@@ -8,5 +8,8 @@ public class Godzillaa implements BarnyardAnimal {
 	public String toString() {
 		return "Death by 13-story tall domesticated BEAST. uhrlrahrrrgrraa."
 	}
+	public void eat() {
+		
+	}
 
 }
