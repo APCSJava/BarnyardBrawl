@@ -10,7 +10,7 @@ public class BarnyardTester {
 
 	public static void main(String[] args) {
 		BarnyardAnimal[] animals = new BarnyardAnimal[10];
-
+		
 		for (BarnyardAnimal animal : animals) {
 			if (animal != null) {
 				System.out.println(animal.toString());
